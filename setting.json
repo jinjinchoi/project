@@ -1,4 +1,5 @@
 {
     "name" : "jin2",
-    "host" : "post"
+    "host" : "post",
+    "city" : "서울"
 }
